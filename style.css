@@ -200,8 +200,8 @@ p {
 }
 .about .content .textBx
 {
-    min-width: 49%;
-    width: 49%;
+    min-width: 50%;
+    width: 50%;
 }
 .about .content .textBx p{
     color: #fff;
