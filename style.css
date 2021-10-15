@@ -183,7 +183,7 @@ p {
     height: 4px;
     background:#000;
 }
-.title.white h2,p{
+.title.white h2, p{
     color: #fff;
 }
 .title.white h2::before{
@@ -210,5 +210,5 @@ p {
     margin-left: 40px;
 }
 .about .content .imgBx img{
-    max-width: 100%;
+    min-width: 100%;
 }
